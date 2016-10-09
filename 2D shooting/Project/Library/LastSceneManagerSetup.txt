@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/kudo/Documents/Unity Projects/Irairabou/Assets/Scene/Stage 1.unity
+  isLoaded: 1
+  isActive: 1
