@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/kudo/Documents/Unity Projects/2D Shooting/Assets/2D Shooting.unity
+  isLoaded: 1
+  isActive: 1
